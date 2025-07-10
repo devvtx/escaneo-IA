@@ -1,0 +1,1 @@
+Este proyecto realiza un escaneo de red para identificar hosts activos, detectar servicios expuestos con sus versiones, y utiliza un modelo de inteligencia artificial de OpenAI para **priorizar los objetivos más vulnerables** y recomendar pasos para una fase de explotación controlada.
